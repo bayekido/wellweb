@@ -1,7 +1,0 @@
-function testing() {
-    let x=6;
-    return x;
-
-}
-
-testing();
